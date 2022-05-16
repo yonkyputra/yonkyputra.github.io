@@ -1,6 +1,6 @@
 ## DTS Changelog
 
-### dts_dev_0.0.2.apk
+### [dts_dev_0.0.2.apk](https://drive.google.com/file/d/1qXTpJsz3EEMIZJshTH_in9mq47fPsAFe/view?usp=sharing)
   ## Fixed
   - Perbaikan wizzard error pada saat user registrasi step ke 2
   
