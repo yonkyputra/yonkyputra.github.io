@@ -5,6 +5,7 @@
   - Perbaikan uppercase saat user registrasi
   - Perbaikan Icon
   - Perbaikan font terlalu kecil
+  - Perbubahan layout akademi dan pelatihan
   
   ## Added
   - New Dashboard
@@ -12,6 +13,10 @@
   - Penambahan list 'event' pada lihat semua
   - Detail Akademi
   - List Mitra
+  - Bottom navigation dengan logo DTS
+  - Menu-menu pada halaman profile
+  - Halaman notifikasi
+  - Webview detail akademi
 
 ### [dts_dev_0.0.2.apk](https://drive.google.com/file/d/1qXTpJsz3EEMIZJshTH_in9mq47fPsAFe/view?usp=sharing)
   ## Fixed
