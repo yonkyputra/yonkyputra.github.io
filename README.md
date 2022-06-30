@@ -1,11 +1,12 @@
 ## DTS Changelog
 
-### [dts_dev_0.0.3.apk](https://drive.google.com/file/d/1qXTpJsz3EEMIZJshTH_in9mq47fPsAFe/view?usp=sharing)
+### [dts_dev_0.0.3.apk](https://drive.google.com/file/d/1pQCrmwaUbjtzN36xkupk6pmuzEhPrkmE/view?usp=sharing)
   ## Fixed
   - Perbaikan uppercase saat user registrasi
   - Perbaikan Icon
   - Perbaikan font terlalu kecil
   - Perbubahan layout akademi dan pelatihan
+  - Perbaikan breaking changes API
   
   ## Added
   - New Dashboard
