@@ -1,5 +1,18 @@
 ## DTS Changelog
 
+### [dts_dev_0.0.3.apk](https://drive.google.com/file/d/1qXTpJsz3EEMIZJshTH_in9mq47fPsAFe/view?usp=sharing)
+  ## Fixed
+  - Perbaikan uppercase saat user registrasi
+  - Perbaikan Icon
+  - Perbaikan font terlalu kecil
+  
+  ## Added
+  - New Dashboard
+  - Penambahan list 'event' pada homepage
+  - Penambahan list 'event' pada lihat semua
+  - Detail Akademi
+  - List Mitra
+
 ### [dts_dev_0.0.2.apk](https://drive.google.com/file/d/1qXTpJsz3EEMIZJshTH_in9mq47fPsAFe/view?usp=sharing)
   ## Fixed
   - Perbaikan wizzard error pada saat user registrasi step ke 2
