@@ -6,7 +6,6 @@
   - Perbaikan Icon
   - Perbaikan font terlalu kecil
   - Perbubahan layout akademi dan pelatihan
-  - Perbaikan breaking changes API
   
   ## Added
   - New Dashboard
