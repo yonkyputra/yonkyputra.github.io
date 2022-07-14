@@ -1,5 +1,19 @@
 ## DTS Changelog
 
+### [dts_dev_0.0.5.apk](https://drive.google.com/file/d/1o7Sp5JC78tEJTHBrZ5PjkJ1nSf3mjepF/view?usp=sharing)
+  ## Fixed
+  - Perbaikan Halaman Login
+  - Perbaikan Halaman Registrasi
+  - Perbaikan Halaman Wizzard
+  - Perbaikan Bisa memasukkan simbol titik di field NIK
+  - Perbaikan Validasi No Handphone
+  - Perbaikan OTP Tidak Terkirim
+  - Perbaikan Blocking saat Night Mode (Belum Fixed)
+  - Perbaikan harus input huruf besar di beberapa Field
+  
+  ## Added
+  - Lupa Password / Reset Password
+
 ### [dts_dev_0.0.4.apk](https://drive.google.com/file/d/1XH8QEnHLnvoiNkYDVKsXJfnk4XH29KqP/view?usp=sharing)
   ## Fixed
   - Perbaikan list 'event' dengan 2 baris 
