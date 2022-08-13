@@ -1,5 +1,17 @@
 ## DTS Changelog
 
+
+
+### [dts_dev_0.0.7.apk](https://drive.google.com/file/d/1G8rPtL-R7LQMEMdxP28I39JjeoPFyMeg/view?usp=sharing)
+  ## Fixed
+  - https://docs.google.com/spreadsheets/d/1opcp0gm1oWjREfL57XqI9s9wjD5gcFUMqTrocmDoJx0/edit#gid=977809389
+
+  ## Added
+  - Tentang
+  - FAQ
+  - Settings (UI)
+  - Data Diri
+
 ### [dts_dev_0.0.5.apk](https://drive.google.com/file/d/1o7Sp5JC78tEJTHBrZ5PjkJ1nSf3mjepF/view?usp=sharing)
   ## Fixed
   - Perbaikan Halaman Login
